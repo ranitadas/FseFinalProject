@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+.container-fluid{
+    background-color: #0a81b42a !important;
+}
+.panel-heading{
+    background-color: #d6d6c2 !important;
+    color: black !important;
+}
+.btn-primary{
+    background-color: #0d033d !important;
+    border-color: #0d033d !important;
+}
+
+.ng5-slider .ng5-slider-pointer
+{
+    background-color: #0d033d !important;
+}
